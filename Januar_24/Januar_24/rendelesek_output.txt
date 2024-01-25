@@ -1,0 +1,5 @@
+Rendeles{rendelesSzama='123', osszeg=123.0, rendelesDatuma=2024-01-24, megrendelesNeve='Elso_Megrendeles', megrendelesCime='Elso_Utca_2'}
+Rendeles{rendelesSzama='123', osszeg=123.0, rendelesDatuma=2024-01-24, megrendelesNeve='Elso_Megrendeles', megrendelesCime='Elso_Utca_2'}
+Rendeles{rendelesSzama='123', osszeg=123.0, rendelesDatuma=2024-01-24, megrendelesNeve='Elso_Megrendeles', megrendelesCime='Elso_Utca_2'}
+Rendeles{rendelesSzama='1233', osszeg=1233.0, rendelesDatuma=2024-01-24, megrendelesNeve='Masodik_Megrendeles', megrendelesCime='Elso_Utca_3'}
+Rendeles{rendelesSzama='1233', osszeg=1233.0, rendelesDatuma=2024-01-24, megrendelesNeve='Masodik_Megrendeles', megrendelesCime='Elso_Utca_3'}

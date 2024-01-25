@@ -1,0 +1,16 @@
+modellszam/meret/szin/evszak/gyartasDatuma
+BK4816/47/piros/nyar/2022.09.15
+RX7304/30/fekete/tel/2020.07.10
+KY3836/31/kek/osz-tavasz/2023.01.11
+DL5539/34/feher/nyar/2021.03.17
+AP1666/27/fekete/tel/2023.08.01
+RX1477/32/arany/osz-tavasz/2020.11.24
+VX3058/34/kek/tel/2023.05.17
+CF5648/28/turkiz/osz-tavasz/2022.01.27
+RX1477/43/piros/tel/2023.05.12
+KY6299/39/arany/osz-tavasz/2021.06.21
+DL5539/37/piros/osz-tavasz/2023.08.03
+RX9184/30/feher/nyar/2021.04.08
+EF1619/49/fekete/osz-tavasz/2023.03.07
+AT7550/27/fekete/osz-tavasz/2022.07.29
+RX1477/47/piros/tel/2020.05.27

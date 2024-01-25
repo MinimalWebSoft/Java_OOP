@@ -1,0 +1,5 @@
+Auto{rendszam='ABC_111', tipus='AudiTT', marka='Audi', gyartasDatuma=2024-01-24, teljesitmeny=123}
+Auto{rendszam='ABC_111', tipus='AudiTT', marka='Audi', gyartasDatuma=2024-01-24, teljesitmeny=123}
+Auto{rendszam='ABC_111', tipus='AudiTT', marka='Audi', gyartasDatuma=2024-01-24, teljesitmeny=123}
+Auto{rendszam='ABC_111', tipus='AudiTT', marka='Audi', gyartasDatuma=2024-01-24, teljesitmeny=123}
+Auto{rendszam='ABC_111', tipus='AudiTT', marka='Audi', gyartasDatuma=2024-01-24, teljesitmeny=123}
